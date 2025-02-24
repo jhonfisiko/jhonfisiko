@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Jhon Bairon Florez Salas</h1>
+<h1 align="center">Hi 👋, I'm Jhon Bairon Florez Salas  SMARTDICOM creator </h1>
 <p align="center">
   <img src="https://static.vecteezy.com/system/resources/previews/002/749/659/non_2x/atom-on-a-white-background-free-vector.jpg" alt="Atom Icon" width="100" height="100">
 </p>
